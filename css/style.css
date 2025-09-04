@@ -12,3 +12,8 @@ p
     font-style: italic;
     color: darkcyan;
 }
+
+.logo
+{
+    border: 3px solid black;
+}
